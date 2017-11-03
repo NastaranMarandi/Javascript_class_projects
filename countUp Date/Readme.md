@@ -1,0 +1,1 @@
+calculate Time Distance Between Start Of Javascript(1991) And Now.
